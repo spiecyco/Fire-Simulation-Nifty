@@ -1,0 +1,11 @@
+.update {
+    background-color: #000000;
+    color: #FFFFFF;
+    float: right;
+    /* padding-right: 50px; */
+    border-radius: 10px;
+    width: 300px;
+    height: 300px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+  }
